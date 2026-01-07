@@ -1,0 +1,9 @@
+#include<stdio.h>
+main()
+{
+ printf("\t*\n");	
+ printf("\n\t*\t*\n");
+ printf("\n\t*\t*\t*\n");
+ printf("\n\t*\t*\n");
+ printf("\n\t*\n");
+}

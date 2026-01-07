@@ -1,0 +1,11 @@
+#include<stdio.h>
+main()
+{
+	printf("\t---------\n");
+	printf("\t|\t|\n");
+	printf("\tR\t|\n");
+	printf("\tN\t|\n");
+	printf("\tW\t|\n");
+	printf("\t|\t|\n");
+	printf("\t---------\n");
+}
