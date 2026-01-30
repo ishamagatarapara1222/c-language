@@ -23,6 +23,21 @@
 ### pr-4 q-7
 ![pr-4 q-7](pr_4_output_7.png.png)
 
+# Project: PR. 5 Assortment
+## Task Outputs
+
+### pr-5 q-1
+![pr-5 q-1](pr_5_1.png)
+
+### pr-5 q-2
+![pr-5 q-2](pr_5_2.png)
+
+### pr-5 q-3
+![pr-5 q-3](pr_5_3.png)
+
+### pr-5 q-4
+![pr-5 q-4](pr_5_4.png)
+
 
 
 
