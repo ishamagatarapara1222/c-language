@@ -39,7 +39,7 @@
 ![pr-5 q-4](pr_5_4.png)
 
 # Project: PR. 6 Filament
-### pr-5 q-4
+### pr-6 q-1,2
 ![pr-6](pr_6_filament.png)
 
 
