@@ -40,7 +40,7 @@
 
 # Project: PR. 6 Filament
 ### pr-6 q-1,2
-![pr-6](pr_6_filament.png)
+![pr-6](pr_6_output.png)
 
 
 
