@@ -42,6 +42,9 @@
 ### pr-6 q-1,2
 ![pr-6](pr_6_output.png)
 
+# Project: PR. 7 Calculator
+### pr-6 
+![pr-7](pr_7_output.png)
 
 
 
