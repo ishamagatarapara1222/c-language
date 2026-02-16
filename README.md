@@ -46,5 +46,15 @@
 ### pr-6 
 ![pr-7](pr_7_output.png)
 
+# Project: PR. 8 Indicator
+
+## Task Outputs
+
+### pr-8 q-1
+![pr-8 q-1](pr_8_output_1.png)
+
+### pr-8 q-2
+![pr-8 q-2](pr_8_output_2.png)
+
 
 
