@@ -57,4 +57,24 @@
 ![pr-8 q-2](pr_8_output_2.png)
 
 
+# C Lang. Practical exam output 
+
+## Task Outputs
+
+###  q-1
+![q-1](exam_q_1_op.png)
+
+###  q-2
+![q-2](exam_q_2_op.png)
+
+###  q-1
+![q-3](exam_q_3_op.png)
+
+###  q-2
+![q-4](exam_q_4_op.png)
+
+###  q-1
+![q-5](exam_q_5_op.png)
+
+
 
