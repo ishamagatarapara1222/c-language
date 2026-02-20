@@ -1,38 +1,32 @@
 #include <stdio.h>
 
 int main() {
-    int a, b, c, d, max;
+    int num1, num2, num3;
 
-    printf("Enter four numbers: ");
-    scanf("%d %d %d %d", &a, &b, &c, &d);
+    // Taking input from user
+    printf("Enter value of the first number: ");
+    scanf("%d", &num1);
 
-    if (a > b) {
-        if (a > c) {
-            if (a > d)
-                max = a;
-            else
-                max = d;
+    printf("Enter value of the second number: ");
+    scanf("%d", &num2);
+
+    printf("Enter value of the third number: ");
+    scanf("%d", &num3);
+
+    // Finding minimum using nested if-else
+    if (num1 < num2) {
+        if (num1 < num3) {
+            printf("The minimum value is: %d\n", num1);
         } else {
-            if (c > d)
-                max = c;
-            else
-                max = d;
+            printf("The minimum value is: %d\n", num3);
         }
     } else {
-        if (b > c) {
-            if (b > d)
-                max = b;
-            else
-                max = d;
+        if (num2 < num3) {
+            printf("The minimum value is: %d\n", num2);
         } else {
-            if (c > d)
-                max = c;
-            else
-                max = d;
+            printf("The minimum value is: %d\n", num3);
         }
     }
-
-    printf("Maximum number is: %d", max);
 
     return 0;
 }
